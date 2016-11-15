@@ -1,0 +1,10 @@
+.thumbnail-title {
+  display: block;
+  margin: 0;
+  /* border style needed to enable for color to work */
+  border-style: solid;;
+  border-color: red;
+  padding: 4px 10px;
+  background: rgb(96, 125, 139);
+  color: rgb(56, 238, 255);
+}
