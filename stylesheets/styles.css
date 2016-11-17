@@ -31,7 +31,8 @@ a {
 }
 
 .thumbnail-item {
-  display: block;
+  display: inline-block;
+  width: 120px;
   border: 1px solid rgb(100%, 100%, 100%);
   border: 1px solid rgba(100%, 100%, 100%, 1);
 }
@@ -56,4 +57,12 @@ a {
   background: rgb(114, 201, 175);
   color: rgb(255, 255, 255);
   font-size: 18px;
+}
+
+.detail-image {
+  width: 90%;
+}
+
+.detail-image-title {
+  display: block;
 }
